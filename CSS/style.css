@@ -1,3 +1,22 @@
 .panda-bg{
     background-color: #fceae8;
 }
+.bg-categories-1{
+    background-color: #f9a500;
+}
+.bg-categories-2{
+    background-color: #da70d6;
+}
+.bg-categories-3{
+    background-color: #184aff;
+}
+.categories img{
+    width: 100px;
+}
+.btn-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
